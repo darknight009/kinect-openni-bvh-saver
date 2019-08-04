@@ -48,8 +48,11 @@ When the Kinect sensor detects your body, the app will start recording, after th
 <br/>
 Enter the Kinect camera's viewport, perform actions, then leave the viewport. Repeat the above steps, you can record many skeleton animation clips at one time.
 
-###Animating skeleton in Blender 3D
+### Animating skeleton in Blender 3D
   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GBSC10euloY/0.jpg)](https://www.youtube.com/watch?v=GBSC10euloY)
+  
+### Result
+  https://media.giphy.com/media/QWLgqJmFG96BX5CgRg/giphy.gif
   
 ### Thanks
 1.[Derek Hendrickx's KinectMotionCapture](https://github.com/derekhendrickx/KinectMotionCapture)<br/>
