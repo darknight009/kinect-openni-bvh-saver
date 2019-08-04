@@ -47,6 +47,10 @@ Note: If you failed to run, just try again, the Kinect driver for macOS is not s
 When the Kinect sensor detects your body, the app will start recording, after the Kinect sensor lose your body, the app will stop recording, the BVH files will be saved to '../data'.<br/>
 <br/>
 Enter the Kinect camera's viewport, perform actions, then leave the viewport. Repeat the above steps, you can record many skeleton animation clips at one time.
+
+###Animating skeleton in Blender 3D
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GBSC10euloY/0.jpg)](https://www.youtube.com/watch?v=GBSC10euloY)
+  
 ### Thanks
 1.[Derek Hendrickx's KinectMotionCapture](https://github.com/derekhendrickx/KinectMotionCapture)<br/>
 2.[Kyle Weicht's 3D math library](https://github.com/awesomekyle/math)<br/>
